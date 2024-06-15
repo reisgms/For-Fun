@@ -1,2 +1,2 @@
 # For-Fun
- This is just for test my firts codes and scripts
+ This is just for test my firt codes and scripts
